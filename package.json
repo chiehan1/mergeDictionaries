@@ -1,0 +1,8 @@
+{
+ "name": "integrateDictionaries",
+ "version": "0.0.1",
+ "private": true,
+ "dependencies": {
+  "xlsx-to-json": "0.2.4"
+ }
+}
